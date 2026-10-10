@@ -12,9 +12,9 @@ include $(DEVKITARM)/3ds_rules
 
 TARGET      := crepuscule
 BUILD       := build
-SOURCES     := source
+SOURCES     := source .
 DATA        :=
-INCLUDES    := source
+INCLUDES    := source .
 
 APP_TITLE       := Crepuscule
 APP_DESCRIPTION := Un platformer pour finir avant la nuit
