@@ -1,0 +1,14 @@
+{
+  "info": {
+    "title": "Crépuscule 3DS",
+    "author": "proutaydan-ui",
+    "description": "Homebrew pour 3DS",
+    "version": "1.0.0"
+  },
+  "assets": [
+    {
+      "type": "icon",
+      "url": "https://githubusercontent.com"
+    }
+  ]
+}
